@@ -1,0 +1,12 @@
+{
+  "name": "apimetodoshttp",
+  "version": "1.0.0",
+  "description": "* Escolher um local do computador para criar o projeto\r * Abrir o Git BASH nessa pasta",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
